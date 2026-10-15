@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Déploiement en cours..."
+echo ${FLAG3} | base64
